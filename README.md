@@ -28,7 +28,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Celestino GitHub stats](https://github-readme-stats.vercel.app/api?username=CelestinoKalueyo&show_icons=true&theme=radical)
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelestinoKalueyo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+ <img aligh="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelestinoKalueyo&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celestino-kalueyo-437540171/)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CelestinoKalueyo)
